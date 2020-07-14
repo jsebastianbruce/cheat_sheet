@@ -1,0 +1,47 @@
+body {
+  font-family: Georgia;
+}
+h1 {
+  text-align: center;
+}
+nav ul {
+  list-style: none;
+  display: table;
+}
+
+nav li {
+  display: table-cell;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 20px 160px;
+}
+
+h2 {
+  text-align: center;
+}
+table {
+  width: 550px;
+  margin: 0px auto;
+  border: 1px solid Goldenrod;
+}
+
+thead {
+  background-color: DodgerBlue;
+  color: white;
+}
+
+td {
+  border-top: 1px solid Goldenrod;
+}
+
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: DodgerBlue;
+  color: white;
+  text-align: center;
+}
